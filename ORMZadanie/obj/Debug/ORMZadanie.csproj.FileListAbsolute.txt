@@ -1,0 +1,15 @@
+C:\Users\kamen\source\repos\ORM\ORMZadanie\bin\Debug\ORMZadanie.exe.config
+C:\Users\kamen\source\repos\ORM\ORMZadanie\bin\Debug\ORMZadanie.exe
+C:\Users\kamen\source\repos\ORM\ORMZadanie\bin\Debug\ORMZadanie.pdb
+C:\Users\kamen\source\repos\ORM\ORMZadanie\bin\Debug\EntityFramework.dll
+C:\Users\kamen\source\repos\ORM\ORMZadanie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamen\source\repos\ORM\ORMZadanie\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kamen\source\repos\ORM\ORMZadanie\bin\Debug\EntityFramework.xml
+C:\Users\kamen\source\repos\ORM\ORMZadanie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamen\source\repos\ORM\ORMZadanie\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kamen\source\repos\ORM\ORMZadanie\obj\Debug\ORMZadanie.csproj.AssemblyReference.cache
+C:\Users\kamen\source\repos\ORM\ORMZadanie\obj\Debug\ORMZadanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamen\source\repos\ORM\ORMZadanie\obj\Debug\ORMZadanie.csproj.CoreCompileInputs.cache
+C:\Users\kamen\source\repos\ORM\ORMZadanie\obj\Debug\ORMZadanie.csproj.CopyComplete
+C:\Users\kamen\source\repos\ORM\ORMZadanie\obj\Debug\ORMZadanie.exe
+C:\Users\kamen\source\repos\ORM\ORMZadanie\obj\Debug\ORMZadanie.pdb
